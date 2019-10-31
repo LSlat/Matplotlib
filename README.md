@@ -1,2 +1,2 @@
 # Matplotlib
-Jupyter Notebook
+Pandas, Jupyter Notebook
