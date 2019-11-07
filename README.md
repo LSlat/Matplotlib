@@ -1,2 +1,2 @@
 # Matplotlib
-Pandas, Jupyter Notebook
+Visual analysis of data from a fledgling ride sharing company.
